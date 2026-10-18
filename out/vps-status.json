@@ -1,6 +1,6 @@
 {
   "active": false,
-  "hostname": "vpsfree-1",
+  "hostname": "vpsfree-2",
   "os": "Ubuntu 22.04.5 LTS",
   "kernel": "6.8.0-1064-azure",
   "cpu_threads": 4,
@@ -12,28 +12,24 @@
   "public_ip": "",
   "tailscale_ip": "",
   "tailscale_dns": "",
-  "started_at": "2026-10-18T04:31:27Z",
-  "expires_at": "2026-10-18T10:13:27Z",
+  "started_at": "2026-10-18T10:12:18Z",
+  "expires_at": "2026-10-18T15:54:18Z",
   "duration_menit": 342,
-  "run_id": "39097364764",
+  "run_id": "39117077265",
   "run_attempt": "1",
-  "run_number": "1",
-  "run_url": "https://github.com/BAWORBAWORID/vpsrunner/actions/runs/39097364764",
+  "run_number": "2",
+  "run_url": "https://github.com/BAWORBAWORID/vpsrunner/actions/runs/39117077265",
   "mode": "vpsfree",
-  "renewal": "tidak",
+  "renewal": "ya",
   "akses": {
     "mode": "tailscale",
     "tailscale": {
       "status": "offline",
+      "note": "up ditolak",
       "ip": "",
       "magicdns": "",
-      "hostname": "",
-      "note": "HP/PC harus login Tailscale pada tailnet yang sama lalu SSH ke user@ip -p 22."
+      "hostname": ""
     }
   },
-  "handover": {
-    "status": "dispatched",
-    "at": "2026-10-18T09:52:58Z"
-  },
-  "stopped_at": "2026-10-18T10:11:42Z"
+  "stopped_at": "2026-10-18T10:13:30Z"
 }
