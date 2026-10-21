@@ -1,35 +1,35 @@
 {
   "active": false,
-  "hostname": "vpsfree-981",
+  "hostname": "vpsfree-982",
   "os": "Ubuntu 22.04.5 LTS",
-  "kernel": "6.8.0-1064-azure",
+  "kernel": "6.8.0-1070-azure",
   "cpu_threads": 4,
   "ram_gb": 15.6,
-  "disk_free_gb": 87,
+  "disk_free_gb": 86,
   "ssh_port": 22,
   "ssh_user": "vps",
   "ssh_listen": "ok",
   "public_ip": "",
   "tailscale_ip": "",
   "tailscale_dns": "",
-  "started_at": "2026-10-21T03:31:07Z",
-  "expires_at": "2026-10-21T09:13:07Z",
+  "started_at": "2026-10-21T03:33:27Z",
+  "expires_at": "2026-10-21T09:15:27Z",
   "duration_menit": 342,
-  "run_id": "39538929952",
+  "run_id": "39539169881",
   "run_attempt": "1",
-  "run_number": "981",
-  "run_url": "https://github.com/BAWORBAWORID/vpsrunner/actions/runs/39538929952",
+  "run_number": "982",
+  "run_url": "https://github.com/BAWORBAWORID/vpsrunner/actions/runs/39539169881",
   "mode": "vpsfree",
   "renewal": "ya",
   "akses": {
     "mode": "tailscale",
     "tailscale": {
       "status": "offline",
-      "note": "install gagal",
+      "note": "up ditolak",
       "ip": "",
       "magicdns": "",
       "hostname": ""
     }
   },
-  "stopped_at": "2026-10-21T03:32:45Z"
+  "stopped_at": "2026-10-21T03:35:52Z"
 }
