@@ -1,24 +1,24 @@
 {
   "active": false,
-  "hostname": "vpsfree-1021",
+  "hostname": "vpsfree-1022",
   "os": "Ubuntu 22.04.5 LTS",
-  "kernel": "6.8.0-1064-azure",
+  "kernel": "6.8.0-1070-azure",
   "cpu_threads": 4,
   "ram_gb": 15.6,
-  "disk_free_gb": 87,
+  "disk_free_gb": 86,
   "ssh_port": 22,
   "ssh_user": "vps",
   "ssh_listen": "ok",
   "public_ip": "",
   "tailscale_ip": "",
   "tailscale_dns": "",
-  "started_at": "2026-10-21T05:25:00Z",
-  "expires_at": "2026-10-21T11:07:00Z",
+  "started_at": "2026-10-21T05:28:06Z",
+  "expires_at": "2026-10-21T11:10:06Z",
   "duration_menit": 342,
-  "run_id": "39549349998",
+  "run_id": "39549630468",
   "run_attempt": "1",
-  "run_number": "1021",
-  "run_url": "https://github.com/BAWORBAWORID/vpsrunner/actions/runs/39549349998",
+  "run_number": "1022",
+  "run_url": "https://github.com/BAWORBAWORID/vpsrunner/actions/runs/39549630468",
   "mode": "vpsfree",
   "renewal": "ya",
   "akses": {
@@ -31,5 +31,5 @@
       "hostname": ""
     }
   },
-  "stopped_at": "2026-10-21T05:27:07Z"
+  "stopped_at": "2026-10-21T05:30:12Z"
 }
